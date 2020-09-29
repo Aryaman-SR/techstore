@@ -1,0 +1,16 @@
+.Firstpart
+{   
+    height: 30%;  
+    width: 100%;
+    box-shadow:5px 5px 18px black;
+    font-size: 30px;
+    font: black;
+    margin:1px ;
+}
+
+.header
+{
+    float: none;
+    border-radius:10;
+    box-shadow: 5px 5px blanchedalmond; 
+}
